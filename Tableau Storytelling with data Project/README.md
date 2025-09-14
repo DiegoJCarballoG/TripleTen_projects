@@ -8,7 +8,7 @@ Identify what is causing the high number of returned orders at the Superstore. P
 - Visualization, dashboards, Story.
 
 ### 📊 Dataset
-- Source: https://practicum-content.s3.us-west-1.amazonaws.com/data-eng/remodeled/files/Superstore.xls?etag=4616d537c163874941cf5fc3c9002fa8
+- [Source](https://practicum-content.s3.us-west-1.amazonaws.com/data-eng/remodeled/files/Superstore.xls?etag=4616d537c163874941cf5fc3c9002fa8)
 - Size: (#9995 rows, 21 columns)  
 - Notes: Returns LEFT JOIN’ed onto the `Orders` table.
 
@@ -44,4 +44,5 @@ Identify what is causing the high number of returned orders at the Superstore. P
 ### 🔗 Links
 - [View Tableau Dashboard](https://public.tableau.com/app/profile/diego.carballo/viz/StorytellingwithDataProject_17525532384360/Returnscauses)  
 - [View Project Repo](https://github.com/DiegoJCarballoG/TripleTen_projects.git) 
+
 
