@@ -51,7 +51,6 @@ Identify the cause of the high number of returned orders at the Superstore. Prep
 
 ### 🔗 Links
 - [View Tableau Dashboard](https://public.tableau.com/app/profile/diego.carballo/viz/StorytellingwithDataProject_17525532384360/Returnscauses)  
-- [View Project Repo](https://github.com/DiegoJCarballoG/TripleTen_projects.git) 
 
 
 
