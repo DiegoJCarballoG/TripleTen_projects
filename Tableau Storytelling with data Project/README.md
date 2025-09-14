@@ -44,11 +44,15 @@ Identify the cause of the high number of returned orders at the Superstore. Prep
   Returns by state:  
   ![Returns by state](https://github.com/DiegoJCarballoG/TripleTen_projects/blob/main/Tableau%20Storytelling%20with%20data%20Project/screenshots/Returns%20by%20state.png?raw=true)
 
+  Returns by customer segments:
+  ![Returns by customer segments](https://github.com/DiegoJCarballoG/TripleTen_projects/blob/main/Tableau%20Storytelling%20with%20data%20Project/screenshots/Returns%20by%20customer%20segments.png?raw=true)
+
   
 
 ### 🔗 Links
 - [View Tableau Dashboard](https://public.tableau.com/app/profile/diego.carballo/viz/StorytellingwithDataProject_17525532384360/Returnscauses)  
 - [View Project Repo](https://github.com/DiegoJCarballoG/TripleTen_projects.git) 
+
 
 
 
